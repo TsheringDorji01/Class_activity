@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="practice4"/>
+        <attribute name="authors" value="Plab1-12"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-24 02:51:46 PM"/>
+        <attribute name="created" value="UGxhYjEtMTI7REVTS1RPUC1GTDJFUlJQOzIwMjUtMDMtMjQ7MDI6MTk6NDggUE07Mjk1NA=="/>
+        <attribute name="edited" value="UGxhYjEtMTI7REVTS1RPUC1GTDJFUlJQOzIwMjUtMDMtMjQ7MDI6NTE6NDYgUE07MTszMDU2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1, n2, sum" type="Integer" array="False" size=""/>
+            <input variable="n1"/>
+            <input variable="n2"/>
+            <assign variable="sum" expression="n1+n2"/>
+            <output expression="sum" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
